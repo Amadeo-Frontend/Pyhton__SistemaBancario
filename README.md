@@ -1,4 +1,4 @@
-# Sistema Bancário 🤑
+# Sistema Bancário 💸
 
 Este é um projeto de um sistema bancário em Python que permite realizar operações como depósito, saque e visualização de extrato. O sistema trabalha com apenas um usuário e mantém um registro de depósitos, saques e saldo disponível.
 
